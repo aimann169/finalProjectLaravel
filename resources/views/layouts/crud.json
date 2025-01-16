@@ -1,0 +1,20 @@
+[
+    {
+        "route": "equipment",
+        "name": "equipment",
+        "icon": "fa-bolt",
+        "role": [
+            "admin",
+            "user"
+        ]
+    },
+    {
+        "route": "borrow",
+        "name": "borrow",
+        "icon": "fa-bolt",
+        "role": [
+            "admin",
+            "user"
+        ]
+    }
+]
